@@ -1,0 +1,27 @@
+@media only screen and (max-width: 860px){
+    .header{
+        position: relative;
+    }
+    .navbar{
+        position: relative;
+    }
+
+
+    footer{
+        padding: 40px;
+    }
+    footer .footer-section{
+        flex-direction: column;
+    }
+    footer .footer-section{
+        margin-right: 0;
+        margin-bottom: 40px;
+    }
+    footer .footer-section .foo-sec-aboutus, .foo-sec-quicklinks, .contact{
+        width: 100%;
+    }
+    .copytxt{
+        padding: 8px 40px;
+    }
+}
+
